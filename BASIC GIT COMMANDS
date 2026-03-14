@@ -15,3 +15,15 @@ to check your details use this:
 git config user.name
 git config user.email 
 
+git clone
+git add
+git commit
+git push
+
+this is what you should do to make your git garden more greener
+
+to save the text first click command+S to save the changes u made then 
+git add .
+git commit -m "Commit message over here gang"
+git push origin main (das what gpt told me to do so sybau nd do the same 💅)
+
