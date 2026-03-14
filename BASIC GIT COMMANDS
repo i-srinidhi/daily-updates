@@ -1,0 +1,17 @@
+create a public repository on git hub
+open an IDE (i prefer Visual studio code) 
+
+install git ig im not sure 😭
+find out the version, do: git--version 
+if u get some kind of error or no response JUST GOOGLE GIT HUB ND INSTALL IT BRO
+
+then create a new folder give it any name then create a file inside the folder 
+in the terminal add your username nd email id, like this:
+git config --global user.name "your name"
+git config --global user.email "your email" 
+YES ENCLOSE YOUR DETAILS IN DOUBLE QUOTES
+ 
+to check your details use this:
+git config user.name
+git config user.email 
+
